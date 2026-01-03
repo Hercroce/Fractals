@@ -1,4 +1,6 @@
-Este é um projeto pessoal construido por curiosidade.
-Não houve intenção de compartilhar este código em seu desenvolvimento, serve principalmente de apoio ao texto sobre fractais disponível em {link}
+This is a personal project built out of curiosity.
+There was no intention to share this code during its development, reason why there is low inflexibility in coding best practices; it mainly serves as support for the text on fractals available at the link below.
 
-Caso queira reproduzir os resultados, selecione um interpretador que possua matplotlib, numpy e imageio, acesse o arquivo dragon_curve_drawing e rode ele para gerar um novo gif dentro de /src/images. 
+{link}
+
+If you want to reproduce the results, select an interpreter that has matplotlib, numpy, and imageio libs installed, access the src/dragon_curve_drawing file, and run it to generate a new gif inside /src/images. From that you can alter the parameters (like colors or number of curves) to get new images.
