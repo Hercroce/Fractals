@@ -1,5 +1,5 @@
 This is a personal project built out of curiosity.
-There was no intention to share this code during its development, reason why there is low inflexibility in coding best practices; it mainly serves as support for the text on fractals available at the link below.
+It's functional, but there was no intention to share this code during its development, reason why there is low inflexibility in coding best practices; it mainly serves as support for the text on fractals available at the link below.
 
 {link}
 

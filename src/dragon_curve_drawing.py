@@ -125,15 +125,15 @@ for n in range(1, 13):  # Gera passos de 1 a x
     plt.figure(figsize=(6, 6))
 
     # Plot das duas curvas no mesmo gráfico
-    plt.plot(x1, y1, color='#E63946', label=f'Passo {n}')       # Azul gelo
-    plt.plot(x2, y2, color='#7A4E1D', label=f'Passo {n}')  # Vermelho cereja
-    plt.plot(x3, y3, color='#0096C7', label=f'Passo {n}')  # Vermelho cereja
-    plt.plot(x4, y4, color='#FFF0A5', label=f'Passo {n}')  # Vermelho cereja
+    plt.plot(x1, y1, color='#E63946', label=f'Red Dragon')   
+    plt.plot(x2, y2, color='#7A4E1D', label=f'Brown Dragon') 
+    plt.plot(x3, y3, color='#0096C7', label=f'Blue Dragon')  
+    plt.plot(x4, y4, color='#FFF0A5', label=f'Yellow Dragon')
 
     # Título principal e legenda
-    plt.title("Curva dos Dragões Elementares", fontsize=14)
-    plt.suptitle(f"Passo {n}", fontsize=10)
-    plt.legend()
+    plt.title("Elemental Dragons Curve", fontsize=14)
+    plt.suptitle(f"Step {n}", fontsize=10)
+    plt.legend(fontsize=8)
 
     # Estética
     plt.grid(False)
