@@ -99,11 +99,11 @@ for n in range(1, 14):
 #     plt.grid(True)
 #     plt.axis('equal')
 
-#     # Salvar frame
-#     filename = f"frames/frame_{n:02d}.png"
-#     plt.savefig(filename)
-#     filenames.append(filename)
-#     plt.close()
+    # Salvar frame
+    # filename = f"src/frames/frame_{n:02d}.png"
+    # plt.savefig(filename)
+    # filenames.append(filename)
+    # plt.close()
 
 
 # 🔄 GIF Dragões Gêmeos
