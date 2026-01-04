@@ -57,7 +57,7 @@ if __name__ == '__main__':
                     #  FLAG
                     #  FLAG
                     #  FLAG
-    num_points=750
+    num_points=50000
     sierpinski_points = chaos_game_sierpinski(num_points=num_points)
                     #  FLAG
                     #  FLAG
